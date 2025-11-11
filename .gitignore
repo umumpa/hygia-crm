@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Java / Maven
+target/
+*.iml
+*.ipr
+*.iws
+.idea/
+.classpath
+.project
+.settings/
+
+# Spring Boot
+*.log
+
+# Node/React (以后前端用得到)
+node_modules/
+dist/
+build/
+
+# Env
+*.env
+*.local
